@@ -1,3 +1,8 @@
+/*
+Write a program that converts the temperature given in degrees Fahrenheit to
+the temperature given in degrees Celsius
+*/
+
 #include <iostream>
 
 using namespace std;
