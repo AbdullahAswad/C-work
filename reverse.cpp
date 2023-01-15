@@ -1,3 +1,8 @@
+/*
+Write a program that reverses two four digit numbers entered from the keyboard
+and outputs the sum of the two reversed numbers.
+*/
+
 #include <iostream>
 
 using namespace std;
