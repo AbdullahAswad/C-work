@@ -1,6 +1,6 @@
 /*
-Write a program that converts the temperature given in degrees Celsius to
-the temperature given in degrees Fahrenheit
+Write a program that calculates the average of three decimal numbers entered from
+the keyboard.
 */
 
 #include <iostream>
